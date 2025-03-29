@@ -14,6 +14,8 @@ captures/
 .cxx/
 *.apk
 output.json
+.DS_Store
+local.properties
 
 # IntelliJ
 *.iml
@@ -31,3 +33,4 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
